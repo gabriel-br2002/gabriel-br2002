@@ -3,7 +3,6 @@
 <div> 
   
  <a href="https://www.instagram.com/ga.briel40/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.twitch.tv/gabriel_bazualdorojas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/gabriel-bazualdo-rojas-334834271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -17,9 +16,9 @@
 <br/>
 
 ## 🚀 Experiencia
-Como estudiante de ingeniería de sistemas, mi pasión por la tecnología me ha llevado a explorar y dominar diversas herramientas y lenguajes de programación. Manejo tecnologías como Java, Python y bases de datos, lo cual me ha permitido desarrollar proyectos sólidos y eficientes.
+Como estudiante de ingeniería de sistemas, mi pasión por la tecnología me ha llevado a explorar  diversas herramientas y lenguajes de programación. Manejo tecnologías como Java, Python y bases de datos, lo cual me ha permitido desarrollar proyectos.
 Actualmente, estoy expandiendo mis habilidades hacia el desarrollo web, aprendiendo y aplicando tecnologías como JavaScript, HTML y CSS. Estoy emocionado por las infinitas posibilidades que el desarrollo web ofrece y estoy comprometido en seguir aprendiendo y creciendo en esta área. Mi objetivo es integrar mis conocimientos de backend con capacidades frontend para crear aplicaciones web completas y robustas.
 
-Estoy siempre dispuesto a aprender y afrontar nuevos retos, soy un entusiasta de la tecnología. Me considero una persona perseverante que no se deja vencer por los obstáculos que encuentra en el camino.
+Estoy siempre dispuesto a aprender y afrontar nuevos retos. Me considero una persona perseverante que no se deja vencer por los obstáculos que encuentra en el camino.
 En mi tiempo libre, me gusta ver series, películas de Marvel, DC, animes, soy fan de Star Wars. Escucho música Rock, Pop, R&B, Electropop , Cumbia entre otros. </br>
 
