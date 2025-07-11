@@ -1,45 +1,43 @@
-# Hola 👋 Soy *Gabriel Bazualdo*
+# ¡Hola! 👋 Soy Gabriel Bazualdo
 
-## 🌐 Redes Sociales
-<div> 
-  <a href="https://www.instagram.com/ga.briel40/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://www.linkedin.com/in/gabriel-bazualdo-rojas-334834271/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo web y la programación 💻  
+Fan del aprendizaje constante, la tecnología y la creatividad digital ✨
+
+---
+
+## 🚀 Tecnologías y herramientas
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## ✨ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-br2002&show_icons=true&theme=radical" alt="Gabriel Bazualdo's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-br2002&layout=compact&theme=radical" alt="Gabriel Bazualdo's Most Used Languages" />
 </div>
 
 ---
 
-## 💻 Tecnologías
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 💬 Sobre mí
 
----
-
-## 🚀 Sobre mí
-
-Como estudiante de Ingeniería de Sistemas, mi pasión por la tecnología me ha llevado a explorar diversas herramientas y lenguajes de programación. Manejo tecnologías como Java, Python y bases de datos, lo cual me ha permitido desarrollar proyectos.
-
-Actualmente, estoy expandiendo mis habilidades hacia el desarrollo web, aprendiendo y aplicando tecnologías como JavaScript, HTML y CSS. Estoy emocionado por las infinitas posibilidades que el desarrollo web ofrece y estoy comprometido en seguir aprendiendo y creciendo en esta área. Mi objetivo es integrar mis conocimientos de backend con capacidades frontend para crear aplicaciones web completas y robustas.
-
-Estoy siempre dispuesto a aprender y afrontar nuevos retos. Me considero una persona perseverante que no se deja vencer por los obstáculos que encuentra en el camino.  
-En mi tiempo libre, me gusta ver series y películas de Marvel y DC, y soy fan de Star Wars y el anime.  
-Escucho música Rock, Pop, R&B, Electropop, Cumbia, entre otros estilos.
+Me gusta crear, aprender y crecer constantemente en el mundo de la tecnología.  
+Estoy enfocado en el desarrollo web y backend, y disfruto programar soluciones que marquen la diferencia.  
+En mi tiempo libre veo series, películas de Marvel, Star Wars, anime y escucho música variada.
 
 > 💡 *"El éxito es la suma de pequeños esfuerzos repetidos cada día."*
 
 ---
 
-## 📊 Estadísticas
+## 🌐 Redes Sociales
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-br2002&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-br2002&layout=compact&theme=tokyonight" alt="Gabriel's Top Languages" />
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ga.briel40/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bazualdo-rojas-334834271/)
+
